@@ -1,0 +1,11 @@
+torch==2.5.0
+torchvision==0.20.0
+numpy==2.2.5
+opencv-python==4.12.0.88
+Pillow==11.3.0
+pandas== 2.3.2
+batchgenerators== 0.25.1
+pywavelets==1.8.0
+requests== 2.32.4
+medpy==0.5.2
+scipy==1.15.3 
